@@ -1,0 +1,2 @@
+# tiktokShopRedirectUrl
+tiktokShopRedirectUrl
